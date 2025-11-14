@@ -46,8 +46,7 @@ SpringOAuth2/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/Harshvardhan210/SpringBoot_OAuth2.git
 ```
 # 🔐 How to Create Google & GitHub OAuth2 Client ID and Client Secret
 
